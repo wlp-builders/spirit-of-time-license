@@ -1,4 +1,4 @@
-## Zeitgeist License (Version 1.0, 2025)
+## Zeitgeist License (Version 1.0, 2024)
 
 Introducing the Zeitgeist Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance.
 
@@ -10,7 +10,7 @@ The Zeitgeist License is designed to promote innovation and fair use of software
 
 ##### FULL EXAMPLE
 
-ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1, 2024
+ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
                        
 Copyright (c) 2025 **The Every Yoga Company**
 
@@ -50,7 +50,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ##### FULL EXAMPLE WITH PLACEHOLDERS
 
-ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1, 2024
+ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
 
 Copyright (c) 2025 **[YOUR COMPANY OR NAME]**
 
