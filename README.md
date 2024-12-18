@@ -1,6 +1,6 @@
 ## Zeitgeist License (Version 1.0, 2025)
 
-Introducing the Zeitgeist Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance. Zeitgeist means 'spirit of the age'.
+Introducing the Zeitgeist Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance.
 
 
 ### Preamble:
