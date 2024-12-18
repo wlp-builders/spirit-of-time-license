@@ -10,6 +10,8 @@ The Zeitgeist License is designed to promote innovation and fair use of software
 
 ##### FULL EXAMPLE
 
+ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1, 2024
+                       
 Copyright (c) 2025 **The Every Yoga Company**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -47,6 +49,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 ##### FULL EXAMPLE WITH PLACEHOLDERS
+
+ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1, 2024
 
 Copyright (c) 2025 **[YOUR COMPANY OR NAME]**
 
