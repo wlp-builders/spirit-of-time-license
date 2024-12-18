@@ -1,5 +1,5 @@
-
-##### Introducing the Zeitgeist-MIT Software License: Basically MIT, except for large competitors unless large financial agreement.
+## Zeitgeist-MIT Software License
+Introducing the Zeitgeist-MIT Software License: Basically MIT, except for large competitors unless large financial agreement.
 
 
 ###### FULL EXAMPLE: 
