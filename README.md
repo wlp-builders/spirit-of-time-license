@@ -38,8 +38,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    - Use, distribute, or deploy this software without explicit authorization.
    - Engage in any action intended to circumvent the restrictions of this license, including indirect access through third parties.
 
-7. **Audit Rights**:  
-   The copyright holder reserves the right to request reasonable documentation to verify compliance with this license. Failure to comply with such requests may result in revocation of this license and legal action.
 
 ---
 
@@ -78,8 +76,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    - Use, distribute, or deploy this software without explicit authorization.
    - Engage in any action intended to circumvent the restrictions of this license, including indirect access through third parties.
 
-7. **Audit Rights**:  
-   The copyright holder reserves the right to request reasonable documentation to verify compliance with this license. Failure to comply with such requests may result in revocation of this license and legal action.
 
 ---
 
