@@ -9,39 +9,60 @@ The Zeitgeist License is designed to promote innovation and fair use of software
 ### License Terms:
 
 ##### FULL EXAMPLE
+##### FULL EXAMPLE
+
+Here’s a revised version of your Zeitgeist License, focusing on restricting usage only for named competitors and tightening the language to prevent circumvention. 
+
+---
+
+## Zeitgeist License (Version 1.0, 2025)
+
+### Preamble:
+The Zeitgeist License is designed to empower individuals, small businesses, and independent developers while protecting against exploitation by specific competitors. This license limits usage by designated entities unless a prior agreement is negotiated, ensuring fair competition and innovation.
+
+---
+
+### License Terms:
+
+##### FULL EXAMPLE
 
 Copyright (c) 2025 **The Every Yoga Company**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. **Permitted Use**:  
-   This software may be used by any individual, non-profit organization, educational institution, small business (fewer than 500 employees or less than $10 million USD in annual revenue), and independent hosting providers, without requiring explicit permission.
+   This software may be used by any individual, non-profit organization, educational institution, small business, or any organization not explicitly listed in the "Restricted Entities" section below, without requiring explicit permission.
 
 2. **Restricted Use**:  
-   Use of this software by the following entities (hereafter referred to as "Restricted Entities") is prohibited unless explicitly authorized in writing by the copyright holder through a separate commercial agreement:
-   - Any entity with annual gross revenues exceeding $10 million USD.
-   - Any organization with a workforce exceeding 500 employees.
-   - The following named entities and their subsidiaries: **Meta Platforms (Facebook), Apple, Amazon, Netflix, Alphabet (Google), Automattic Inc., WP Engine, Bluehost, SiteGround, GoDaddy, Namecheap, IONOS, Pressable, GreenGeeks, Hostinger, and DreamHost.**
+   The following entities (hereafter referred to as "Restricted Entities") are prohibited from using this software without prior written authorization from the copyright holder:
+   - The following competitors and their subsidiaries, affiliates, contractors, or agents: **Meta Platforms (Facebook), Apple, Amazon, Netflix, Alphabet (Google), Automattic Inc., WP Engine, Bluehost, SiteGround, GoDaddy, Namecheap, IONOS, Pressable, GreenGeeks, Hostinger, and DreamHost.**
 
-3. **Authorization for Restricted Entities**:  
-   Restricted Entities wishing to use this software must contact the copyright holder to negotiate terms. Authorization may involve a licensing fee or other terms agreed upon in writing.
+3. **Anti-Circumvention Clause**:  
+   Restricted Entities are prohibited from indirectly using this software through:
+   - Subsidiaries, affiliates, or related entities.
+   - Third-party contractors, consultants, or agents acting on their behalf.
+   - Any intermediaries that provide access to this software to a Restricted Entity.
 
-4. **Attribution**:  
+4. **Authorization for Restricted Entities**:  
+   Restricted Entities wishing to use this software must contact the copyright holder to negotiate terms. Authorization may involve a licensing fee or other written agreement. Any such authorization must be explicitly documented.
+
+5. **Attribution**:  
    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-5. **Prohibited Actions**:  
-   Restricted Entities are prohibited from:
-   - Using this software without explicit authorization.
-   - Circumventing the restrictions outlined in this license, including but not limited to indirect use via subsidiaries or affiliates.
+6. **Prohibited Actions**:  
+   Restricted Entities may not:
+   - Use, distribute, or deploy this software without explicit authorization.
+   - Engage in any action intended to circumvent the restrictions of this license, including indirect access through third parties.
 
-6. **Compliance**:  
-   The copyright holder reserves the right to audit and verify compliance with this license. Failure to comply may result in legal action.
+7. **Audit Rights**:  
+   The copyright holder reserves the right to request reasonable documentation to verify compliance with this license. Failure to comply with such requests may result in revocation of this license and legal action.
 
 ---
 
 ### Disclaimer of Warranty:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+---
 
 ##### FULL EXAMPLE WITH PLACEHOLDERS
 
@@ -50,27 +71,31 @@ Copyright (c) 2025 **[YOUR COMPANY OR NAME]**
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 1. **Permitted Use**:  
-   This software may be used by any individual, non-profit organization, educational institution, small business (fewer than 500 employees or less than $10 million USD in annual revenue), and independent hosting providers, without requiring explicit permission.
+   This software may be used by any individual, non-profit organization, educational institution, small business, or any organization not explicitly listed in the "Restricted Entities" section below, without requiring explicit permission.
 
 2. **Restricted Use**:  
-   Use of this software by the following entities (hereafter referred to as "Restricted Entities") is prohibited unless explicitly authorized in writing by the copyright holder through a separate commercial agreement:
-   - Any entity with annual gross revenues exceeding $10 million USD.
-   - Any organization with a workforce exceeding 500 employees.
-   - The following named entities and their subsidiaries: **[YOUR LARGE COMPETITORS].**
+   The following entities (hereafter referred to as "Restricted Entities") are prohibited from using this software without prior written authorization from the copyright holder:
+   - The following competitors and their subsidiaries, affiliates, contractors, or agents: **[YOUR COMPETITORS]**
 
-3. **Authorization for Restricted Entities**:  
-   Restricted Entities wishing to use this software must contact the copyright holder to negotiate terms. Authorization may involve a licensing fee or other terms agreed upon in writing.
+3. **Anti-Circumvention Clause**:  
+   Restricted Entities are prohibited from indirectly using this software through:
+   - Subsidiaries, affiliates, or related entities.
+   - Third-party contractors, consultants, or agents acting on their behalf.
+   - Any intermediaries that provide access to this software to a Restricted Entity.
 
-4. **Attribution**:  
+4. **Authorization for Restricted Entities**:  
+   Restricted Entities wishing to use this software must contact the copyright holder to negotiate terms. Authorization may involve a licensing fee or other written agreement. Any such authorization must be explicitly documented.
+
+5. **Attribution**:  
    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-5. **Prohibited Actions**:  
-   Restricted Entities are prohibited from:
-   - Using this software without explicit authorization.
-   - Circumventing the restrictions outlined in this license, including but not limited to indirect use via subsidiaries or affiliates.
+6. **Prohibited Actions**:  
+   Restricted Entities may not:
+   - Use, distribute, or deploy this software without explicit authorization.
+   - Engage in any action intended to circumvent the restrictions of this license, including indirect access through third parties.
 
-6. **Compliance**:  
-   The copyright holder reserves the right to audit and verify compliance with this license. Failure to comply may result in legal action.
+7. **Audit Rights**:  
+   The copyright holder reserves the right to request reasonable documentation to verify compliance with this license. Failure to comply with such requests may result in revocation of this license and legal action.
 
 ---
 
