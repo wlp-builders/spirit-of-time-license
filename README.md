@@ -4,7 +4,7 @@ Introducing the Zeitgeist Software License: Basically MIT, except for large comp
 
 
 ### Preamble:
-The Zeitgeist License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by dominant market players requires explicit permission and potentially a commercial agreement. 
+The Zeitgeist License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by specifically named dominant market players requires explicit permission and potentially a commercial agreement. 
 
 ### License Terms:
 
