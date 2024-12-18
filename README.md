@@ -9,22 +9,6 @@ The Zeitgeist License is designed to promote innovation and fair use of software
 ### License Terms:
 
 ##### FULL EXAMPLE
-##### FULL EXAMPLE
-
-Here’s a revised version of your Zeitgeist License, focusing on restricting usage only for named competitors and tightening the language to prevent circumvention. 
-
----
-
-## Zeitgeist License (Version 1.0, 2025)
-
-### Preamble:
-The Zeitgeist License is designed to empower individuals, small businesses, and independent developers while protecting against exploitation by specific competitors. This license limits usage by designated entities unless a prior agreement is negotiated, ensuring fair competition and innovation.
-
----
-
-### License Terms:
-
-##### FULL EXAMPLE
 
 Copyright (c) 2025 **The Every Yoga Company**
 
