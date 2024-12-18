@@ -1,5 +1,5 @@
 ## Zeitgeist-MIT Software License
-Introducing the Zeitgeist-MIT 'Spirit of the age' Software License: Basically MIT, except for large competitors unless large financial agreement.
+Introducing the Zeitgeist-MIT Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance. Zeitgeist means 'spirit of the age'.
 
 
 ###### FULL EXAMPLE: 
