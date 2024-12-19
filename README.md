@@ -1,6 +1,6 @@
 ## Spirit Of Time (Zeitgeist) Software License (Version 1.0, 2024)
 
-Introducing the Spirit Of Time (Zeitgeist) Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance.
+Introducing the Spirit Of Time (Zeitgeist) Software License: Basically MIT, except for large competitors unless large financial agreement is made to keep the balance.
 
 
 ### Preamble:
