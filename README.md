@@ -1,16 +1,16 @@
-## Spirit Of Time (Zeitgeist) Software License (Version 1.0, 2024)
+## Spirit Of Time Software License (Version 1.0, 2024)
 
-Introducing the Spirit Of Time (Zeitgeist) Software License: Basically MIT, except for large competitors unless large financial agreement is made to keep the balance.
+Introducing the Spirit Of Time Software License: Basically MIT, except for large competitors unless large financial agreement is made to keep the balance.
 
 
 ### Preamble:
-The Spirit Of Time (Zeitgeist) License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by specifically named dominant market players requires explicit permission and potentially a commercial agreement. 
+The Spirit Of Time License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by specifically named dominant market players requires explicit permission and potentially a commercial agreement. 
 
 ### License Terms:
 
 ##### FULL EXAMPLE
 
-ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
+"SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
                        
 Copyright (c) 2024 **The Every Yoga Company**
 
@@ -50,7 +50,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ##### FULL EXAMPLE WITH PLACEHOLDERS
 
-ZEITGEIST "SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
+"SPIRIT OF TIME" SOFTWARE LICENSE, Version 1.0, 2024
 
 Copyright (c) 2024 **[YOUR COMPANY OR NAME]**
 
