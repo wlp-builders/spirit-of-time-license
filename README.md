@@ -1,10 +1,10 @@
-## Zeitgeist License (Version 1.0, 2024)
+## Spirit Of Time (Zeitgeist) Software License (Version 1.0, 2024)
 
-Introducing the Zeitgeist Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance.
+Introducing the Spirit Of Time (Zeitgeist) Software License: Basically MIT, except for large competitors unless large financial agreement to keep the balance.
 
 
 ### Preamble:
-The Zeitgeist License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by specifically named dominant market players requires explicit permission and potentially a commercial agreement. 
+The Spirit Of Time (Zeitgeist) License is designed to promote innovation and fair use of software while ensuring that its benefits remain accessible to individuals, small businesses, and independent developers. To maintain a balanced ecosystem, usage by specifically named dominant market players requires explicit permission and potentially a commercial agreement. 
 
 ### License Terms:
 
